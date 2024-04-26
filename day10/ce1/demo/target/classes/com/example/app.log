@@ -1,0 +1,25 @@
+2024-04-26 11:37:12 INFO  AppTest:42 - Open url
+  2024-04-26 11:37:47 INFO  AppTest:50 - Locate and click on search bar & search Reliance Industries
+  2024-04-26 11:37:54 INFO  AppTest:54 - Locate the primary suggestion
+  2024-04-26 11:37:55 INFO  AppTest:60 - Webpage contains the term Reliance Industries Ltd.
+  2024-04-26 11:37:56 INFO  AppTest:70 - Hovering Has Been Done
+  2024-04-26 11:38:56 INFO  AppTest:42 - Open url
+  2024-04-26 11:39:26 INFO  AppTest:50 - Locate and click on search bar & search Reliance Industries
+  2024-04-26 11:39:39 INFO  AppTest:54 - Locate the primary suggestion
+  2024-04-26 11:39:40 INFO  AppTest:60 - Webpage contains the term Reliance Industries Ltd.
+  2024-04-26 11:39:40 INFO  AppTest:70 - Hovering Has Been Done
+  2024-04-26 11:40:08 INFO  AppTest:42 - Open url
+  2024-04-26 11:41:10 INFO  AppTest:50 - Locate and click on search bar & search Reliance Industries
+  2024-04-26 11:41:37 INFO  AppTest:42 - Open url
+  2024-04-26 11:42:12 INFO  AppTest:50 - Locate and click on search bar & search Reliance Industries
+  2024-04-26 11:42:19 INFO  AppTest:54 - Locate the primary suggestion
+  2024-04-26 11:42:19 INFO  AppTest:60 - Webpage contains the term Reliance Industries Ltd.
+  2024-04-26 11:42:20 INFO  AppTest:70 - Hovering Has Been Done
+  2024-04-26 11:42:23 INFO  AppTest:75 - Sip Return has been clicked
+  2024-04-26 11:42:25 INFO  AppTest:86 - Axis Mutual Fund Has Been Selected
+  2024-04-26 11:42:27 INFO  AppTest:91 - Axis Arbitrage Fund-Direct Plan D has been selected
+  2024-04-26 11:42:27 INFO  AppTest:96 - SIP Frequency:Monthly has been selected
+  2024-04-26 11:42:28 INFO  AppTest:98 - Start Date has been selected
+  2024-04-26 11:42:28 INFO  AppTest:100 - End Date has been selected
+  2024-04-26 11:42:30 INFO  AppTest:102 - calculate button has been clcicked
+  
